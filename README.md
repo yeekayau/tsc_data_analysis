@@ -1,5 +1,5 @@
 # Data Analysis Projects at The Shepherd Centre
-This repository contains a collection of data analysis and predictive modelling projects I have completed for The Shepherd Centre. It contains 4 examples of the types of projects I proactively initiated and completed.
+This repository contains a collection of data analysis and predictive modelling projects I have completed for The Shepherd Centre. It contains 4 examples of the types of projects that I proactively initiated and completed.
 
 ## 1. AB Test of a Christmas Direct marketing campaign
 
